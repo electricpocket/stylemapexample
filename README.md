@@ -1,5 +1,6 @@
 Google Maps Android API Demos
 ===================================
+Modified by EP Sept 2019 to demonstrate bug with transparent map backgorund not working.
 
 These are demos for the [Google Maps Android API v2](https://developers.google.com/maps/documentation/android-api/)
 in the Java programming language.
